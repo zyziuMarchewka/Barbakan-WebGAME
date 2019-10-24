@@ -1,2 +1,9 @@
 Do wypróbowania: Suwaki- patrz poniższy link
 https://www.npmjs.com/package/rc-slider
+
+Menu strazłu powinno wytglądać minej więcej tak:
+
+  =======|===== | > |
+  ===|========= |___|
+  
+  2 suwaki : mocy i kąta, oraz przycisk zatwierdzenia i oddania strzału
